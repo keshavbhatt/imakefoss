@@ -2,6 +2,12 @@
 
 ### T1
 
+Hello everyone! I am glad to be part of this platform for the week. With this opportunity, I would like to discuss how we can use various technologies, toolkits to make Open Source Apps for Desktop Linux, and broaden the app ecosystem. 
+
+--Keshav Bhatt
+
+### T2
+
 I will start with "Why Desktop Linux needs more GUI applications".
 
 We all agree that there are millions of console-based powerful utilities available for Linux Desktop/Server & that's what makes Linux the only choice in server space.
