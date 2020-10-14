@@ -2,11 +2,15 @@
 
 ### T1
 
+![T1](https://github.com/keshavbhatt/imakefoss/blob/main/images/1.png?raw=true)
+
 Hello everyone! I am glad to be part of this platform for the week. With this opportunity, I would like to discuss how we can use various technologies, toolkits to make Open Source Apps for Desktop Linux, and broaden the app ecosystem. 
 
 --Keshav Bhatt
 
 ### T2
+
+![t2](https://github.com/keshavbhatt/imakefoss/blob/main/images/2.png?raw=true)
 
 I will start with "Why Desktop Linux needs more GUI applications".
 
