@@ -31,3 +31,22 @@ We slowly need to change this, By making more GUI applications for Linux Desktop
 We will also discuss many reasons and challenges that we face while targetting Linux Desktop for developing GUI applications.
 
 -- Keshav Bhatt
+
+## October 15 2020
+
+### T1
+
+![t1](https://github.com/keshavbhatt/imakefoss/blob/main/images/3.png?raw=true)
+
+Before we jump in and plan to make a new GUI application targetting the platform, We should learn about different GUI toolkits available for it. So, today we will be discussing various GUI toolkit available for Linux Desktop.
+
+Choosing a toolkit can be a challenging task. It is an important decision because it typically decides how your application will behave and work on the Operating system you are targetting. In this thread, I will give my opinions on the most commonly used GUI toolkits in the Linux Desktop ecosystem.
+
+I will start by listing considerations one should make while choosing Toolkit for GUI application development:
+
+-   Language of development: official support and bindings for programming languages.
+-   _Native widgets support:_ produces widgets that render and look closer to other applications on the platform.
+-   Availability of documentation and online support: provide easily accessible documentation for developers to learn how properly write implementations using different libraries.
+-   Maintenance of the library bindings and the library itself.
+
+-- Keshav Bhatt
