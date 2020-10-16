@@ -50,3 +50,16 @@ I will start by listing considerations one should make while choosing Toolkit fo
 -   Maintenance of the library bindings and the library itself.
 
 -- Keshav Bhatt
+
+## October 16 2020
+
+### T1
+Today I will try to draw a quick comparison between commonly used GUI toolkit, which may help you make your toolkit selection decision easy. A thread:
+
+All this data/information will be available for easy reading at [github.com/keshavbhatt/im…](https://t.co/XY6EOxSEyG "https://github.com/keshavbhatt/imakefoss/blob/main/tweets.md") 
+
+Let's start with GTK/GTK+ first: 
+Website: [gtk.org](https://gtk.org) 
+[PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/gtk+.pdf)
+
+![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/gtk+.png?raw=true)
