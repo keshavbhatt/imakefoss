@@ -71,3 +71,10 @@ Website: [https://wxwidgets.org/](https://wxwidgets.org/)
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/wxWidgets.pdf)
 
 ![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/wxWidgets.png?raw=true)
+
+**Qt** (cute) 
+Website: [https://qt.io/](https://qt.io/) 
+
+[PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/qt.pdf)
+
+![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/qt.png?raw=true)
