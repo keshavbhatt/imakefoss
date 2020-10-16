@@ -60,6 +60,7 @@ All this data/information will be available for easy reading at [github.com/kesh
 
 Let's start with GTK/GTK+ first: 
 Website: [gtk.org](https://gtk.org) 
+
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/gtk+.pdf)
 
 ![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/gtk+.png?raw=true)
