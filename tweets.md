@@ -70,11 +70,18 @@ Website: [https://wxwidgets.org/](https://wxwidgets.org/)
 
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/wxWidgets.pdf)
 
-![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/wxWidgets.png?raw=true)
+![wxWidgets](https://github.com/keshavbhatt/imakefoss/blob/main/images/wxWidgets.png?raw=true)
 
 **Qt** (cute) 
 Website: [https://qt.io/](https://qt.io/) 
 
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/qt.pdf)
 
-![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/qt.png?raw=true)
+![Qt](https://github.com/keshavbhatt/imakefoss/blob/main/images/qt.png?raw=true)
+
+**Flutter**
+Website: [https://flutter.dev/](https://flutter.dev/) 
+
+[PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/flutter.pdf)
+
+![Flutter](https://github.com/keshavbhatt/imakefoss/blob/main/images/flutter.png?raw=true)
