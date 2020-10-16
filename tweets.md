@@ -54,6 +54,7 @@ I will start by listing considerations one should make while choosing Toolkit fo
 ## October 16 2020
 
 ### T1
+![t1](https://github.com/keshavbhatt/imakefoss/blob/main/images/4.png?raw=true)
 Today I will try to draw a quick comparison between commonly used GUI toolkit, which may help you make your toolkit selection decision easy. A thread:
 
 All this data/information will be available for easy reading at [github.com/keshavbhatt/im…](https://t.co/XY6EOxSEyG "https://github.com/keshavbhatt/imakefoss/blob/main/tweets.md") 
