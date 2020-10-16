@@ -58,9 +58,16 @@ Today I will try to draw a quick comparison between commonly used GUI toolkit, w
 
 All this data/information will be available for easy reading at [github.com/keshavbhatt/im…](https://t.co/XY6EOxSEyG "https://github.com/keshavbhatt/imakefoss/blob/main/tweets.md") 
 
-Let's start with GTK/GTK+ first: 
+**GTK/GTK+** 
 Website: [gtk.org](https://gtk.org) 
 
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/gtk+.pdf)
 
 ![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/gtk+.png?raw=true)
+
+**wxWidgets** 
+Website: [https://wxwidgets.org/](https://wxwidgets.org/) 
+
+[PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/wxWidgets.pdf)
+
+![GTK+](https://github.com/keshavbhatt/imakefoss/blob/main/images/wxWidgets.png?raw=true)
