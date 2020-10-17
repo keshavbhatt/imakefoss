@@ -55,6 +55,7 @@ I will start by listing considerations one should make while choosing Toolkit fo
 
 ### T1
 ![t1](https://github.com/keshavbhatt/imakefoss/blob/main/images/4.png?raw=true)
+
 Today I will try to draw a quick comparison between commonly used GUI toolkit, which may help you make your toolkit selection decision easy. A thread:
 
 All this data/information will be available for easy reading at [github.com/keshavbhatt/im…](https://t.co/XY6EOxSEyG "https://github.com/keshavbhatt/imakefoss/blob/main/tweets.md") 
@@ -86,3 +87,47 @@ Website: [https://flutter.dev/](https://flutter.dev/)
 [PDF version of image here](https://github.com/keshavbhatt/imakefoss/blob/main/pdfs/flutter.pdf)
 
 ![Flutter](https://github.com/keshavbhatt/imakefoss/blob/main/images/flutter.png?raw=true)
+
+## October 17 2020
+
+### T1 
+
+"Too often technical enthusiasts fall into the trap of creating more Linux distributions. We don’t need more Linux distributions. Stop making Linux distributions, make applications instead." 
+
+-- **Alan Pope** ([@popey](https://twitter.com/popey/) : Developer Advocate at [@Canonical](https://twitter.com/Canonical/))
+
+- *Make a Linux App:* [https://makealinux.app/](https://makealinux.app/) 
+
+### T2
+If you are planning to build GTK widgets based application with popular programming languages like Python, C, Vala , C++, Rust, and even Javascript. Here is the link which may help you get started :
+- *Gnome reference guide:* [developer.gnome.org](https://t.co/hnAPXvtxVr)
+- *Gtk API docs:* [https://www.gtk.org/docs/](https://www.gtk.org/docs/)
+- *Vala docs:* [https://valadoc.org/](https://valadoc.org/) 
+
+### T3
+
+If you are planning to build Qt widgets based application with popular programming languages like C++, Python, Rust, and other listed here: [https://wiki.qt.io/Language_Bindings](https://wiki.qt.io/Language_Bindings), 
+
+Here are the links which may help you get started : 
+
+- *Qt With KDE libs:* https://techbase.kde.org/Getting_Started
+- *Qt Linux setup guide:*  [https://wiki.qt.io/Install_Qt_5_on_Ubuntu](https://wiki.qt.io/Install_Qt_5_on_Ubuntu)
+- *Qt API docs:* [https://doc.qt.io/qt-5/](https://doc.qt.io/qt-5/)
+
+### T4
+If you are planning to build wxWidgets based application with popular programming languages like Python, C++, Perl, and C# !
+
+Here are few link which may help you get started : 
+
+- *wxWidgets Official Linux setup guide:* [https://wiki.wxwidgets.org/Install#Linux](https://wiki.wxwidgets.org/Install#Linux)
+- *wxWidgets Linux Setup guide:* [https://www.binarytides.com/install-wxwidgets-ubuntu/](https://www.binarytides.com/install-wxwidgets-ubuntu/)
+
+### T5
+
+Design beautiful, Expressive and Flexible Applications with Flutter with Dart programming language !
+
+ Some resources which may help you get started : 
+ 
+- *Flutter Linux setup guide:* [https://flutter.dev/docs/get-started/install/linux](https://flutter.dev/docs/get-started/install/linux)
+- *Dart Lang documentation:* [https://dart.dev/guides](https://dart.dev/guides)
+- *Flutter documentation:* [https://flutter.dev](https://flutter.dev)
