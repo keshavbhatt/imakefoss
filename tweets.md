@@ -131,3 +131,30 @@ Design beautiful, Expressive and Flexible Applications with Flutter with Dart pr
 - *Flutter Linux setup guide:* [https://flutter.dev/docs/get-started/install/linux](https://flutter.dev/docs/get-started/install/linux)
 - *Dart Lang documentation:* [https://dart.dev/guides](https://dart.dev/guides)
 - *Flutter documentation:* [https://flutter.dev](https://flutter.dev)
+
+## 18 October 2020
+
+### T1
+
+![T1](https://github.com/keshavbhatt/imakefoss/blob/main/images/5.png?raw=true)
+
+Yesterday I shared many GUI toolkits and how one can get started using them to create applications for Linux Desktop and contribute to FOSS. Today we will talk about various ways developers can share their creation with a bigger audience.
+
+Once you have developed an application that runs on your local machine, You wish to share it with a wider audience. There has been an issue in the past where the developer had to package their applications in different formats to make it available on various Linux distributions.
+
+But in a few recent years, Thanks to the universal Linux applications packaging formats like AppImage, Flatpak, and Snaps. Now applications packaged in one of these formats ensures that it will run as expected on a wide range of supported Linux Distros.
+
+#### AppImage 
+Distribute your desktop Linux application in the AppImage format and win users running all common Linux distributions. Package once and run everywhere. Reach users on all major desktop distributions. 
+
+*Learn more:* https://docs.appimage.org/packaging-guide/index.html
+
+#### Flatpak
+ Flatpak is a framework for distributing desktop applications on Linux. It has been created by developers who have a long history of working on the Linux desktop and is run as an independent open source project. 
+ 
+*Learn more:* https://docs.flatpak.org/en/latest/
+
+#### Snapcraft 
+Snapcraft is a powerful and easy to use command-line tool for building snaps. Snaps are app packages for desktop, cloud, and IoT that are easy to install, secure, cross-platform and dependency-free.
+
+*Learn more:* https://snapcraft.io/docs/snapcraft-overview
