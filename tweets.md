@@ -194,3 +194,9 @@ I will post a few screenshots showing the availability of basic applications jus
 ![MacOs store search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/macos.png?raw=true)
 
 ![Windows store search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/windows.png?raw=true)
+
+It's hard to disagree that Linux Desktop lag when it comes to GUI applications, I can make thousands of similar examples but this is enough to understand the point. 
+
+Linux users who can give their time and efforts can pay back to the community and FOSS by creating a thriving GUI application ecosystem (just like we have of console-based applications) for all newcomers. So they can stay longer and keep using the Linux Desktop & not go away just because they can not spend their time learning all these command-line utilities.
+
+-Keshav Bhatt
