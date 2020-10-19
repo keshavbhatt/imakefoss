@@ -158,3 +158,39 @@ Distribute your desktop Linux application in the AppImage format and win users r
 Snapcraft is a powerful and easy to use command-line tool for building snaps. Snaps are app packages for desktop, cloud, and IoT that are easy to install, secure, cross-platform and dependency-free.
 
 *Learn more:* https://snapcraft.io/docs/snapcraft-overview
+
+## 19 October 2020
+
+### T1
+
+![T1](https://github.com/keshavbhatt/imakefoss/blob/main/images/6.png?raw=true)
+
+Yesterday we talked about different ways developers can share their creation in Linux Desktop Ecosystem.
+
+Since I am putting my efforts particularly on How we can broaden the App ecosystem of Linux on Desktop, Today I will try to put some light on how we are behind in this section in comparison to corporate-backed proprietary counterparts. 
+
+Also, last I specifically chose to include three universal Linux app binary formats or containers. I will give my reason for this too.    
+
+These thoughts are my personal and are not to hurt the feelings of people who are happy with the existing state of the Linux Desktop App ecosystem. 
+
+I think that User Applications plays a vital role in making the newcomers stay using any Operating system. Ex. Windows XP is still used in many businesses (not because people love the Desktop environment it comes with, No harsh feeling for the D.ev developers) due to the compatibility of applications they are using in their business environment. 
+
+These businesses using Windows XP still contributes to the market share of Windows OS. XP market share is still higher than Ubuntu acc. to the first search result on Google (http://bit.do/xpmshare). 
+
+One reason most of us are familiar with why new users are unable to port to Linux is that they do not find applications they were using on the OS they are coming from. And those particular applications are not made available here because their owners/developers think porting their app for an OS with a low market share is a waste of resources. This is what you will get in response if you ask them to port their app for Linux Desktop. While at the same time they are good to put their resources in OS like Android that is also a Linux-based mobile Operating system. 
+
+I have been seeing major changes and good upgrades in Linux Desktop since I am using it, Most of what I saw is the changes in User experience and UI, that comes from the development of the Desktop environment. This is what a normal user will notice. They do not care/know about OS vitals and low-level stuff that it does. Here Linux Desktop developers need to make their scope wider and target a wider audience and not just computer geeks.
+
+So what is stopping people from stay using Linux on their Desktop? Certainly not the Desktop environment but the poor app ecosystem for both developers and the users.
+
+Here if I have proven that applications play a major role in deciding the market share of an OS, let's take some real-world example by searching for simple little utilities on storefronts of all major desktop OS's, 
+
+I will post a few screenshots showing the availability of basic applications just for example:
+
+![Flathub search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/flathub.png?raw=true)
+
+![Snapcraft search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/snapcraft.png?raw=true)
+
+![MacOs store search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/macos.png?raw=true)
+
+![Windows store search results for Currency Converter](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/windows.png?raw=true)
