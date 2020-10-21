@@ -207,7 +207,7 @@ Linux users who can give their time and efforts can pay back to the community an
 
 New Application announcement
 
-![Currency Converter Application for Linux Desktop developed packaged and published in 1 day ](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/7.png?raw=true)
+![Currency Converter Application for Linux Desktop developed packaged and published in 1 day ](https://github.com/keshavbhatt/imakefoss/blob/main/images/7.png?raw=true)
 
 Initial preview of CurrencyConv Application is available.
 Store link: [https://snapcraft.io/currencyconv](https://snapcraft.io/currencyconv)
@@ -224,3 +224,22 @@ Yesterday its was a busy day for me, within the last 17 hours after I shared the
 Though I was not able to create much attention with my example, I hope a few of you were able to get the point. Most of the apps I developed in past are just came out like this. I don't know how this can inspire other people but I enjoy doing this by myself. Publishing applications for Linux Desktop is a very pleasant experience nowadays, thanks to the availability of Universal application packages like Snaps, Flatpak, and Appimages. 
 These packaging formats ensures that apps you publish will run on all modern Linux Desktop OS's and cuts down the maintenance burden for us developers. 
 Currency Converter was just a little example, There are a lot of app ideas I will be sharing today with you guys in this same thread. You are also welcome to engage and pass your app ideas in replies.
+
+For the few coming days I will be adding new features/improving my newly published app [http://snapcraft.io/currencyconv](http://snapcraft.io/currencyconv) (i have received many suggestions from people), you guys are welcome to contribute however you feel like. 
+
+Next am going to share few app ideas for Linux Desktop.
+
+- An app to make DOODLE videos: A few days ago, I was looking for an application similar to [http://doodly.com](https://t.co/C2IWv6KQkZ?amp=1 "http://doodly.com") for making some sort of doodle videos. It's a nice opportunity for anyone interested in making one natively for Linux Desktop.
+- An app for signing PDFs We lack PDF signing tools here on Linux. Most of the available options are outdated or are no longer maintained. Lots of businesses need this tool for Digitally signing the documents they share.
+- A Simple Image Editor, and an Image converter A Simple Image Editor like Fotor for macOs ([https://apps.apple.com/in/app/fotor-photo-editor/id503039729?mt=12&ign-mpt=uo%3D4…](https://apps.apple.com/in/app/fotor-photo-editor/id503039729?mt=12&ign-mpt=uo%3D4)) and a simple batch Image converter like ([https://apps.apple.com/in/app/image-converter-for-png-jpeg-gif/id1168928374?mt=12&ign-mpt=uo%3D4…](https://apps.apple.com/in/app/image-converter-for-png-jpeg-gif/id1168928374?mt=12&ign-mpt=uo%3D4)) .
+
+The list is endless, one can explore more ideas using many web based app store alternatives of other OS's. MacOs - [https://theappstore.org](https://theappstore.org/) Windows - [https://microsoft.com/en-in/store/apps/windows…](https://www.microsoft.com/en-in/store/apps/windows)
+
+--Keshav Bhatt
+
+### T2
+
+It's been a very wonderful week :) I hope some of you were able to find something valuable from my contribution. It's time for me to pass the mike to Mr. Marvin Karegyeya ([@nuwe1_](https://twitter.com/nuwe1_)). Remember, we need to make a thriving GUI app ecosystem for Linux Desktop!
+
+-- Keshav Bhatt
+
