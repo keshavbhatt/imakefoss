@@ -200,3 +200,27 @@ It's hard to disagree that Linux Desktop lag when it comes to GUI applications, 
 Linux users who can give their time and efforts can pay back to the community and FOSS by creating a thriving GUI application ecosystem (just like we have of console-based applications) for all newcomers. So they can stay longer and keep using the Linux Desktop & not go away just because they can not spend their time learning all these command-line utilities.
 
 -Keshav Bhatt
+
+## 20 October 2020
+
+### T1
+
+New Application announcement
+
+![Currency Converter Application for Linux Desktop developed packaged and published in 1 day ](https://github.com/keshavbhatt/imakefoss/blob/main/images/comp/7.png?raw=true)
+
+Initial preview of CurrencyConv Application is available.
+Store link: [https://snapcraft.io/currencyconv](https://snapcraft.io/currencyconv)
+ Source code here : [https://github.com/keshavbhatt/CurrencyConv](https://github.com/keshavbhatt/CurrencyConv) 
+ 
+ -- Keshav Bhatt 
+
+## 21 October 2020
+
+### T1
+
+Yesterday its was a busy day for me, within the last 17 hours after I shared the tweet showing the amount of application search results that came out when I tried to search for a simple Currency converter application in different OS stores.
+ I got myself busy writing a little utility to fill up that result count in one of the Linux Desktop Storefronts. 
+Though I was not able to create much attention with my example, I hope a few of you were able to get the point. Most of the apps I developed in past are just came out like this. I don't know how this can inspire other people but I enjoy doing this by myself. Publishing applications for Linux Desktop is a very pleasant experience nowadays, thanks to the availability of Universal application packages like Snaps, Flatpak, and Appimages. 
+These packaging formats ensures that apps you publish will run on all modern Linux Desktop OS's and cuts down the maintenance burden for us developers. 
+Currency Converter was just a little example, There are a lot of app ideas I will be sharing today with you guys in this same thread. You are also welcome to engage and pass your app ideas in replies.
